@@ -5,6 +5,8 @@
   </p>
 </div>
 
+## weight 파일 용량 초과
+
 ## YOLOv3(You Only Look Once v3)
 * #### grid cell로 나누어 한 번에 클래스를 판단하고 통합하여 최종 객체를 판단
 * #### Bounding Box Coordinate(좌표) 및 클래스 Classification(분류)을 동일 신경망 구조를 통해 동시에 실행
