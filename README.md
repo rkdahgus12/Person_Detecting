@@ -35,3 +35,10 @@
   * video : sudo python3yolo_object_counting.py --input 비디오 경로 --output 저장할 비디오 경로
     * 예) sudo python3 yolo_object_counting.py --input test_video.mp4 --output result_video.avi
 ---
+
+## TeraBee Sensor 
+
+### 참고 사이트: http://terrab.co.kr/
+
+
+* #### Evo 센서 사용 연결 코드 오픈소스 커스텀 활용하여 움직임 방향 체크
