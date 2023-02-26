@@ -45,3 +45,9 @@
 
 
 * #### Evo 센서 사용 연결 코드 오픈소스 커스텀 활용하여 움직임 방향 체크
+
+
+
+## Mobius Openplatform Report 파일 참고
+
+### 참고 사이트: https://velog.io/@seunghwanly/Mobius-Open-Source-IoT-Platform
