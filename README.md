@@ -35,6 +35,9 @@
   * video : sudo python3yolo_object_counting.py --input 비디오 경로 --output 저장할 비디오 경로
     * 예) sudo python3 yolo_object_counting.py --input test_video.mp4 --output result_video.avi
 ---
+### 학습 과정 
+참고 파일: REPORT.hwp
+![캡처](https://user-images.githubusercontent.com/71003685/221397367-18250faf-753f-475a-94de-ac412a79f740.PNG)
 
 ## TeraBee Sensor 
 
