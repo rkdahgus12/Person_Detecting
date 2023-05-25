@@ -5,7 +5,7 @@
   </p>
 </div>
 
-## weight 파일 용량 초과
+
 
 ## YOLOv3(You Only Look Once v3)
 * #### grid cell로 나누어 한 번에 클래스를 판단하고 통합하여 최종 객체를 판단
